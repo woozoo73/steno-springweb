@@ -23,7 +23,7 @@
     <scm>
         <connection>scm:git:git://github.com/woozoo73/steno-springweb.git</connection>
         <developerConnection>scm:git:ssh://github.com:woozoo73/steno-springweb.git</developerConnection>
-        <url>https://github.com/woozoo73/steno-springweb/tree/main</url>
+        <url>https://github.com/woozoo73/steno-springweb/tree/master</url>
     </scm>
 
     <developers>
